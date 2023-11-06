@@ -14,3 +14,5 @@ merge with squash 3
 merge with rebase 1
 
 merge with rebase 2
+
+merge with rebase 3
